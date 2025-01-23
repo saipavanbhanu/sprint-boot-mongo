@@ -21,3 +21,9 @@ This project demonstrates a simple CRUD (Create, Read, Update, Delete) applicati
 - Java 17 or later
 - Spring boot 3.4.1
 - Mongo db community edition
+
+
+## References
+- https://mongock.io/
+- https://stackoverflow.com/questions/75363743/could-not-found-method-getbuilder-in-io-mongock-runner-springboot-config-mongock
+- https://github.com/mongock/mongock-examples
