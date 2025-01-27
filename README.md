@@ -5,7 +5,7 @@ This project demonstrates a simple CRUD (Create, Read, Update, Delete) applicati
 ## Features
 
 - Create, Read, Update, and Delete employee records
-- Database migrations with Mongock
+- Database migrations with Mongock ( DDL, DML )
 - RESTful API endpoints
 
 ## Technologies Used
